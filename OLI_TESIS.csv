@@ -1,0 +1,385 @@
+﻿Sexo;Edad;Residencia;Escolaridad;Peso;Altura;IMC;¿Cuántas veces a la semana consume chocolates?;¿Cuánto gasta en la compra de chocolates a la semana? (estimado)
+Mujer;20;1;Universitario incompleto;45;1,78;14,20;Más de 6 veces a la semana;34,00
+Hombre;23;6;Secundaria completa;45;1,67;16,14;Entre 3 a 5 veces a la semana;34,00
+Hombre;20;2;Universitario incompleto;52;1,7;17,99;Entre 2 a 3 veces al mes;4,00
+Mujer;23;7;Universitario incompleto;48;1,62;18,29;Con menor frecuencia;6,00
+Mujer;22;7;Secundaria completa;50;1,65;18,37;Entre 3 a 5 veces a la semana;0,00
+Hombre;23;2;Universitario incompleto;67;1,9;18,56;Con menor frecuencia;0,00
+Mujer;22;7;Universitario incompleto;55;1,7;19,03;Con menor frecuencia;10,00
+Mujer;23;10;Primaria completa;50;1,62;19,05;Entre 1 a 2 veces a la semana;1,00
+Mujer;20;2;Universitario incompleto;48;1,58;19,23;Con menor frecuencia;1,00
+Mujer;24;7;Universitario incompleto;49;1,59;19,38;Entre 2 a 3 veces al mes;8,00
+Mujer;20;1;Universitario incompleto;51;1,62;19,43;Con menor frecuencia;1.50
+Mujer;23;2;Universitario incompleto;48;1,57;19,47;Entre 3 a 5 veces a la semana;7,00
+Mujer;24;2;Universitario incompleto;45;1,52;19,48;Entre 1 a 2 veces a la semana;3,00
+Mujer;20;3;Universitario incompleto;55;1,68;19,49;Con menor frecuencia;4,00
+Mujer;20;6;Universitario incompleto;52;1,63;19,57;Con menor frecuencia;9,00
+Mujer;22;10;Universitario incompleto;53;1,64;19,71;Entre 2 a 3 veces al mes;2,00
+Mujer;24;7;Universitario incompleto;53;1,64;19,71;Entre 2 a 3 veces al mes;2,00
+Mujer;22;7;Universitario completo;50;1,59;19,78;Con menor frecuencia;5,00
+Mujer;23;10;Universitario incompleto;45;1,5;20,00;Entre 1 a 2 veces a la semana;2,00
+Hombre;21;2;Secundaria completa;67;1,83;20,01;Entre 1 a 2 veces a la semana;10,00
+Hombre;24;6;Secundaria completa;62;1,76;20,02;Entre 1 a 2 veces a la semana;3,00
+Mujer;20;4;Secundaria completa;50;1,58;20,03;Entre 1 a 2 veces a la semana;2,00
+Mujer;23;6;Universitario incompleto;50;1,58;20,03;Entre 2 a 3 veces al mes;5,00
+Hombre;20;2;Secundaria completa;65;1,8;20,06;Entre 1 a 2 veces a la semana;5,00
+Hombre;24;6;Universitario incompleto;56;1,67;20,08;Entre 2 a 3 veces al mes;2,00
+Mujer;22;6;Universitario incompleto;49;1,56;20,13;Con menor frecuencia;1,00
+Hombre;21;5;Secundaria completa;55;1,65;20,20;Entre 1 a 2 veces a la semana;3,00
+Mujer;21;8;Universitario completo;55;1,65;20,20;Entre 1 a 2 veces a la semana;8,00
+Hombre;24;4;Universitario incompleto;57;1,67;20,44;Entre 1 a 2 veces a la semana;3,00
+Mujer;20;8;Universitario incompleto;46;1,5;20,44;Con menor frecuencia;5,00
+Mujer;24;6;Universitario incompleto;48;1,53;20,50;Entre 1 a 2 veces a la semana;5,00
+Mujer;24;5;Universitario incompleto;56;1,65;20,57;Entre 3 a 5 veces a la semana;8,00
+Mujer;21;4;Técnico completo;56;1,65;20,57;Entre 2 a 3 veces al mes;34,00
+Mujer;23;4;Universitario incompleto;54;1,62;20,58;Entre 3 a 5 veces a la semana;8,00
+Mujer;24;6;Universitario incompleto;59;1,69;20,66;Entre 2 a 3 veces al mes;2,00
+Hombre;24;10;Técnico completo;70;1,84;20,68;Con menor frecuencia;3,00
+Mujer;22;9;Universitario incompleto;60;1,7;20,76;Entre 2 a 3 veces al mes;6,00
+Hombre;24;5;Técnico completo;63;1,74;20,81;Entre 2 a 3 veces al mes;5,00
+Mujer;22;2;Secundaria completa;50;1,55;20,81;Entre 2 a 3 veces al mes;2,00
+Mujer;20;6;Universitario incompleto;50;1,55;20,81;Con menor frecuencia;2,00
+Mujer;20;2;Secundaria completa;52;1,58;20,83;Con menor frecuencia;8,00
+Mujer;23;8;Universitario incompleto;58;1,66;21,05;Entre 1 a 2 veces a la semana;5,00
+Mujer;22;6;Universitario incompleto;54;1,6;21,09;Entre 2 a 3 veces al mes;21,00
+Prefiero no decirlo;24;4;Universitario incompleto;54;1,6;21,09;Con menor frecuencia;10,00
+Hombre;22;8;Universitario incompleto;71;1,83;21,20;Entre 3 a 5 veces a la semana;8,00
+Mujer;21;3;Secundaria completa;53;1,58;21,23;Entre 2 a 3 veces al mes;34,00
+Mujer;20;1;Secundaria completa;53;1,58;21,23;Más de 6 veces a la semana;14,00
+Mujer;22;4;Secundaria completa;60;1,68;21,26;Entre 1 a 2 veces a la semana;7,00
+Mujer;22;2;Primaria completa;76;1,89;21,28;Más de 6 veces a la semana;8,00
+Mujer;20;3;Secundaria completa;48;1,5;21,33;Entre 3 a 5 veces a la semana;20,00
+Mujer;24;10;Universitario incompleto;48;1,5;21,33;Entre 1 a 2 veces a la semana;2,00
+Hombre;24;2;Universitario incompleto;56;1,62;21,34;Con menor frecuencia;9,00
+Mujer;20;7;Secundaria completa;55;1,6;21,48;Entre 3 a 5 veces a la semana;3,00
+Mujer;20;5;Universitario incompleto;55;1,6;21,48;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;1;Primaria completa;70;1,8;21,60;Más de 6 veces a la semana;8,00
+Hombre;23;1;Universitario incompleto;70;1,8;21,60;Entre 3 a 5 veces a la semana;8,00
+Mujer;20;2;Universitario incompleto;54;1,58;21,63;Entre 2 a 3 veces al mes;2,00
+Mujer;22;5;Técnico completo;50;1,52;21,64;Entre 2 a 3 veces al mes;4,00
+Mujer;20;2;Secundaria completa;59;1,65;21,67;Entre 3 a 5 veces a la semana;10,00
+Mujer;22;4;Universitario incompleto;55;1,59;21,76;Con menor frecuencia;5,00
+Hombre;24;6;Universitario incompleto;60;1,66;21,77;Entre 3 a 5 veces a la semana;10,00
+Mujer;24;6;Universitario completo;53;1,56;21,78;Entre 1 a 2 veces a la semana;10,00
+Hombre;20;6;Secundaria completa;61;1,67;21,87;Entre 3 a 5 veces a la semana;7,00
+Mujer;20;1;Secundaria completa;56;1,6;21,88;Más de 6 veces a la semana;8,00
+Mujer;24;2;Universitario incompleto;56;1,6;21,88;Entre 3 a 5 veces a la semana;45,00
+Hombre;20;5;Técnico incompleto;56;1,6;21,88;Entre 2 a 3 veces al mes;20,00
+Mujer;22;6;Secundaria completa;56;1,6;21,88;Entre 2 a 3 veces al mes;5,00
+Mujer;21;5;Secundaria completa;56;1,6;21,88;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;3;Universitario completo;56;1,6;21,88;Entre 2 a 3 veces al mes;2,00
+Mujer;23;6;Universitario incompleto;56;1,6;21,88;Entre 2 a 3 veces al mes;2,00
+Mujer;20;4;Secundaria completa;54;1,57;21,91;Más de 6 veces a la semana;10,00
+Mujer;24;10;Técnico incompleto;50;1,51;21,93;Entre 2 a 3 veces al mes;2,00
+Hombre;22;6;Universitario incompleto;62;1,68;21,97;Con menor frecuencia;2,00
+Mujer;22;7;Secundaria completa;55;1,58;22,03;Entre 2 a 3 veces al mes;20,00
+Hombre;24;8;Universitario completo;60;1,65;22,04;Entre 2 a 3 veces al mes;5,00
+Mujer;24;4;Universitario incompleto;60;1,65;22,04;Entre 2 a 3 veces al mes;6,00
+Hombre;24;5;Técnico completo;70;1,78;22,09;Con menor frecuencia;5,00
+Hombre;23;5;Universitario incompleto;67;1,74;22,13;Entre 1 a 2 veces a la semana;6,00
+Mujer;20;2;Secundaria completa;56;1,59;22,15;Entre 3 a 5 veces a la semana;10,00
+Mujer;20;5;Secundaria completa;54;1,56;22,19;Con menor frecuencia;10,00
+Hombre;23;5;Universitario incompleto;68;1,75;22,20;Entre 2 a 3 veces al mes;34,00
+Hombre;22;8;Técnico incompleto;57;1,6;22,27;Entre 1 a 2 veces a la semana;10,00
+Hombre;20;2;Universitario incompleto;66;1,72;22,31;Con menor frecuencia;0,00
+Mujer;22;2;Secundaria completa;55;1,57;22,31;Con menor frecuencia;5,00
+Mujer;22;9;Secundaria completa;53;1,54;22,35;Entre 2 a 3 veces al mes;2,00
+Mujer;23;7;Universitario incompleto;56;1,58;22,43;Entre 3 a 5 veces a la semana;5,00
+Mujer;20;4;Secundaria completa;54;1,55;22,48;Entre 2 a 3 veces al mes;10,00
+Hombre;21;4;Universitario incompleto;65;1,7;22,49;Entre 3 a 5 veces a la semana;10,00
+Hombre;23;8;Universitario incompleto;65;1,7;22,49;Con menor frecuencia;0,00
+Mujer;24;3;Universitario incompleto;50;1,49;22,52;Entre 3 a 5 veces a la semana;10,00
+Mujer;23;4;Universitario incompleto;60;1,63;22,58;Entre 1 a 2 veces a la semana;4,00
+Mujer;20;4;Secundaria completa;55;1,56;22,60;Con menor frecuencia;8,00
+Mujer;21;5;Secundaria completa;55;1,56;22,60;Más de 6 veces a la semana;10,00
+Mujer;24;1;Universitario incompleto;55;1,56;22,60;Con menor frecuencia;5,00
+Mujer;20;6;Universitario incompleto;55;1,56;22,60;Con menor frecuencia;1,00
+Mujer;20;1;Secundaria completa;55;1,56;22,60;Con menor frecuencia;1,00
+Mujer;21;1;Universitario incompleto;58;1,6;22,66;Entre 2 a 3 veces al mes;9,00
+Mujer;20;6;Universitario incompleto;58;1,6;22,66;Con menor frecuencia;5,00
+Hombre;20;10;Técnico incompleto;58;1,6;22,66;Entre 2 a 3 veces al mes;7,00
+Mujer;24;3;Técnico completo;51;1,50;22,67;Entre 2 a 3 veces al mes;5,00
+Hombre;24;10;Técnico completo;72;1,78;22,72;Entre 1 a 2 veces a la semana;4,00
+Mujer;24;5;Técnico completo;59;1,61;22,76;Entre 1 a 2 veces a la semana;5,00
+Mujer;22;5;Secundaria completa;57;1,58;22,83;Entre 2 a 3 veces al mes;34,00
+Hombre;20;7;Universitario incompleto;74;1,8;22,84;Entre 1 a 2 veces a la semana;15,00
+Hombre;20;7;Universitario completo;70;1,75;22,86;Entre 1 a 2 veces a la semana;7,00
+Mujer;22;4;Universitario incompleto;60;1,62;22,86;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;3;Técnico incompleto;55;1,55;22,89;Entre 2 a 3 veces al mes;20,00
+Hombre;23;2;Universitario incompleto;55;1,55;22,89;Entre 2 a 3 veces al mes;5,00
+Mujer;24;2;Universitario incompleto;67;1,71;22,91;Entre 3 a 5 veces a la semana;8,00
+Mujer;24;7;Universitario incompleto;58;1,59;22,94;Entre 1 a 2 veces a la semana;10,00
+Hombre;23;6;Técnico incompleto;61;1,63;22,96;Entre 2 a 3 veces al mes;1,00
+Mujer;21;2;Secundaria completa;56;1,56;23,01;Entre 3 a 5 veces a la semana;24,00
+Mujer;24;5;Técnico completo;56;1,56;23,01;Entre 2 a 3 veces al mes;5,00
+Mujer;22;4;Secundaria completa;56;1,56;23,01;Entre 3 a 5 veces a la semana;10,00
+Mujer;23;6;Secundaria completa;56;1,56;23,01;Con menor frecuencia;3,00
+Mujer;20;1;Universitario incompleto;65;1,68;23,03;Con menor frecuencia;15,00
+Mujer;21;6;Universitario completo;59;1,6;23,05;Entre 2 a 3 veces al mes;5,00
+Hombre;22;6;Universitario incompleto;79;1,85;23,08;Con menor frecuencia;8,00
+Mujer;24;5;Universitario incompleto;52;1,5;23,11;Entre 1 a 2 veces a la semana;3,00
+Mujer;20;5;Secundaria completa;57;1,57;23,12;Entre 2 a 3 veces al mes;20,00
+Mujer;24;1;Universitario completo;63;1,65;23,14;Con menor frecuencia;1,00
+Hombre;20;10;Universitario incompleto;75;1,8;23,15;Con menor frecuencia;4,00
+Hombre;22;4;Secundaria completa;67;1,7;23,18;Con menor frecuencia;10,00
+Mujer;21;8;Secundaria completa;67;1,7;23,18;Entre 3 a 5 veces a la semana;9,00
+Mujer;24;4;Técnico incompleto;55;1,54;23,19;Entre 1 a 2 veces a la semana;10,00
+Hombre;24;9;Universitario incompleto;72;1,76;23,24;Entre 3 a 5 veces a la semana;8,00
+Hombre;22;6;Universitario incompleto;77;1,82;23,25;Entre 1 a 2 veces a la semana;10,00
+Hombre;24;6;Universitario incompleto;62;1,63;23,34;Más de 6 veces a la semana;10,00
+Mujer;23;6;Secundaria completa;59;1,59;23,34;Entre 1 a 2 veces a la semana;4,00
+Mujer;24;9;Universitario incompleto;66;1,68;23,38;Entre 1 a 2 veces a la semana;4,00
+Mujer;24;7;Universitario incompleto;60;1,6;23,44;Entre 1 a 2 veces a la semana;7,00
+Mujer;22;5;Técnico completo;60;1,6;23,44;Entre 1 a 2 veces a la semana;37,00
+Mujer;22;7;Universitario incompleto;60;1,6;23,44;Entre 2 a 3 veces al mes;10,00
+Hombre;20;5;Secundaria completa;60;1,6;23,44;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;2;Secundaria completa;60;1,6;23,44;Entre 1 a 2 veces a la semana;3,00
+Mujer;24;1;Universitario completo;60;1,6;23,44;Con menor frecuencia;3,00
+Hombre;24;1;Universitario incompleto;60;1,6;23,44;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;7;Universitario incompleto;60;1,6;23,44;Entre 2 a 3 veces al mes;6,00
+Hombre;20;5;Universitario incompleto;60;1,6;23,44;Entre 1 a 2 veces a la semana;3,00
+Mujer;22;10;Universitario incompleto;67;1,69;23,46;Entre 3 a 5 veces a la semana;5,00
+Hombre;22;3;Técnico incompleto;64;1,65;23,51;Entre 1 a 2 veces a la semana;5,00
+Hombre;24;10;Técnico completo;69;1,71;23,60;Entre 3 a 5 veces a la semana;5,00
+Mujer;23;5;Universitario incompleto;56;1,54;23,61;Entre 3 a 5 veces a la semana;7,00
+Hombre;22;6;Universitario incompleto;74;1,77;23,62;Entre 1 a 2 veces a la semana;8,00
+Mujer;23;7;Universitario incompleto;62;1,62;23,62;Con menor frecuencia;2,00
+Mujer;23;7;Universitario incompleto;62;1,62;23,62;Entre 3 a 5 veces a la semana;5,00
+Hombre;23;2;Secundaria completa;70;1,72;23,66;Con menor frecuencia;2,00
+Hombre;20;2;Primaria completa;70;1,72;23,66;Entre 3 a 5 veces a la semana;5,00
+Hombre;22;4;Técnico completo;66;1,67;23,67;Con menor frecuencia;10,00
+Hombre;22;5;Secundaria completa;66;1,67;23,67;Con menor frecuencia;15,00
+Mujer;22;6;Secundaria completa;57;1,55;23,73;Entre 1 a 2 veces a la semana;6,00
+Mujer;21;4;Universitario incompleto;60;1,59;23,73;Entre 1 a 2 veces a la semana;7,00
+Hombre;24;1;Técnico completo;60;1,59;23,73;Con menor frecuencia;5,00
+Hombre;23;6;Universitario incompleto;60;1,59;23,73;Entre 2 a 3 veces al mes;8,00
+Hombre;22;4;Técnico completo;67;1,68;23,74;Entre 1 a 2 veces a la semana;30,00
+Hombre;20;5;Universitario incompleto;67;1,68;23,74;Con menor frecuencia;15,00
+Hombre;24;7;Universitario completo;67;1,68;23,74;Con menor frecuencia;0,00
+Hombre;20;2;Secundaria completa;72;1,74;23,78;Con menor frecuencia;1,00
+Mujer;23;6;Universitario incompleto;68;1,69;23,81;Entre 3 a 5 veces a la semana;7,00
+Mujer;22;1;Universitario incompleto;58;1,56;23,83;Entre 1 a 2 veces a la semana;2,00
+Mujer;22;6;Universitario incompleto;58;1,56;23,83;Entre 3 a 5 veces a la semana;14,00
+Mujer;23;5;Secundaria completa;58;1,56;23,83;Entre 1 a 2 veces a la semana;4,00
+Hombre;21;1;Técnico incompleto;65;1,65;23,88;Entre 3 a 5 veces a la semana;2,00
+Mujer;24;4;Universitario incompleto;65;1,65;23,88;Entre 3 a 5 veces a la semana;10,00
+Hombre;22;2;Universitario incompleto;65;1,65;23,88;Entre 2 a 3 veces al mes;5,00
+Mujer;20;2;Universitario incompleto;56;1,53;23,92;Con menor frecuencia;5,00
+Hombre;23;9;Universitario completo;76;1,78;23,99;Entre 1 a 2 veces a la semana;9,00
+Mujer;23;6;Universitario incompleto;63;1,62;24,01;Entre 1 a 2 veces a la semana;2,00
+Mujer;20;1;Primaria completa;67;1,67;24,02;Más de 6 veces a la semana;9,00
+Hombre;23;4;Técnico completo;67;1,67;24,02;Entre 1 a 2 veces a la semana;25,00
+Mujer;20;5;Secundaria completa;60;1,58;24,03;Con menor frecuencia;15,00
+Mujer;20;2;Universitario completo;60;1,58;24,03;Entre 3 a 5 veces a la semana;10,00
+Mujer;23;4;Universitario incompleto;60;1,58;24,03;Con menor frecuencia;1,00
+Mujer;24;8;Técnico completo;60;1,58;24,03;Con menor frecuencia;8,00
+Mujer;20;6;Universitario incompleto;60;1,58;24,03;Entre 3 a 5 veces a la semana;5,00
+Mujer;23;5;Universitario incompleto;60;1,58;24,03;Con menor frecuencia;1,00
+Hombre;24;4;Universitario incompleto;72;1,73;24,06;Entre 3 a 5 veces a la semana;6,00
+Mujer;20;6;Primaria completa;78;1,8;24,07;Entre 1 a 2 veces a la semana;9,00
+Mujer;20;2;Primaria completa;78;1,8;24,07;Más de 6 veces a la semana;8,00
+Hombre;22;1;Secundaria completa;78;1,8;24,07;Entre 2 a 3 veces al mes;2,00
+Mujer;20;6;Universitario incompleto;73;1,74;24,11;Entre 1 a 2 veces a la semana;4,00
+Mujer;21;2;Universitario incompleto;55;1,51;24,12;Con menor frecuencia;1,00
+Mujer;24;6;Universitario incompleto;58;1,55;24,14;Entre 1 a 2 veces a la semana;4,00
+Mujer;24;5;Universitario incompleto;58;1,55;24,14;Entre 2 a 3 veces al mes;8,00
+Mujer;24;2;Universitario incompleto;65;1,64;24,17;Entre 1 a 2 veces a la semana;4,00
+Mujer;21;10;Técnico incompleto;65;1,64;24,17;Entre 2 a 3 veces al mes;2,00
+Hombre;22;9;Técnico incompleto;75;1,76;24,21;Entre 2 a 3 veces al mes;8,00
+Hombre;24;5;Universitario completo;62;1,6;24,22;Con menor frecuencia;0,00
+Mujer;20;2;Secundaria completa;62;1,6;24,22;Con menor frecuencia;1,00
+Hombre;23;8;Universitario incompleto;70;1,7;24,22;Entre 2 a 3 veces al mes;16,00
+Hombre;22;5;Técnico completo;70;1,7;24,22;Entre 3 a 5 veces a la semana;45,00
+Hombre;22;4;Técnico incompleto;70;1,7;24,22;Con menor frecuencia;2,00
+Mujer;20;7;Secundaria completa;70;1,7;24,22;Entre 3 a 5 veces a la semana;5,00
+Hombre;23;5;Universitario incompleto;70;1,7;24,22;Entre 2 a 3 veces al mes;5,00
+Mujer;20;9;Secundaria completa;72;1,72;24,34;Entre 3 a 5 veces a la semana;7,00
+Mujer;20;8;Técnico completo;68;1,67;24,38;Más de 6 veces a la semana;8,00
+Hombre;24;7;Universitario completo;68;1,67;24,38;Con menor frecuencia;2,00
+Hombre;23;9;Técnico completo;68;1,67;24,38;Entre 2 a 3 veces al mes;4,00
+Mujer;22;5;Universitario incompleto;55;1,5;24,44;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;1;Universitario incompleto;55;1,5;24,44;Entre 1 a 2 veces a la semana;4,00
+Hombre;23;8;Universitario incompleto;69;1,68;24,45;Entre 3 a 5 veces a la semana;7,00
+Mujer;22;4;Universitario incompleto;65;1,63;24,46;Entre 3 a 5 veces a la semana;10,00
+Hombre;22;10;Universitario incompleto;65;1,63;24,46;Más de 6 veces a la semana;20,00
+Hombre;23;3;Técnico incompleto;75;1,75;24,49;Entre 1 a 2 veces a la semana;5,00
+Hombre;21;8;Técnico incompleto;75;1,75;24,49;Con menor frecuencia;1,00
+Hombre;22;2;Técnico completo;76;1,76;24,54;Con menor frecuencia;3,00
+Mujer;21;5;Secundaria completa;59;1,55;24,56;Entre 1 a 2 veces a la semana;7,00
+Hombre;23;3;Universitario incompleto;77;1,77;24,58;Entre 3 a 5 veces a la semana;6,00
+Mujer;22;1;Universitario incompleto;63;1,6;24,61;Entre 3 a 5 veces a la semana;10,00
+Mujer;20;6;Universitario incompleto;63;1,6;24,61;Con menor frecuencia;2,00
+Hombre;20;5;Secundaria completa;63;1,6;24,61;Entre 1 a 2 veces a la semana;10,00
+Mujer;20;7;Universitario incompleto;67;1,65;24,61;Entre 2 a 3 veces al mes;20,00
+Hombre;23;5;Técnico completo;67;1,65;24,61;Con menor frecuencia;10,00
+Mujer;20;4;Universitario incompleto;67;1,65;24,61;Más de 6 veces a la semana;10,00
+Hombre;23;9;Universitario incompleto;67;1,65;24,61;Entre 1 a 2 veces a la semana;2,00
+Hombre;23;4;Universitario incompleto;72;1,71;24,62;Entre 3 a 5 veces a la semana;6,00
+Mujer;23;10;Universitario incompleto;60;1,56;24,65;Entre 2 a 3 veces al mes;5,00
+Mujer;23;5;Secundaria completa;60;1,56;24,65;Entre 2 a 3 veces al mes;35,00
+Hombre;21;3;Secundaria completa;60;1,56;24,65;Entre 3 a 5 veces a la semana;35,00
+Mujer;23;2;Universitario completo;60;1,56;24,65;Entre 2 a 3 veces al mes;5,00
+Mujer;22;4;Técnico incompleto;60;1,56;24,65;Con menor frecuencia;3,00
+Hombre;24;7;Técnico completo;90;1,91;24,67;Con menor frecuencia;10,00
+Hombre;20;2;Universitario incompleto;73;1,72;24,68;Entre 2 a 3 veces al mes;2,00
+Mujer;21;8;Técnico incompleto;68;1,66;24,68;Entre 2 a 3 veces al mes;8,00
+Hombre;24;6;Universitario completo;80;1,8;24,69;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;1;Primaria completa;80;1,8;24,69;Más de 6 veces a la semana;80,00
+Hombre;21;1;Primaria completa;80;1,8;24,69;Más de 6 veces a la semana;80,00
+Hombre;22;6;Universitario incompleto;80;1,8;24,69;Entre 2 a 3 veces al mes;7,00
+Hombre;24;6;Universitario incompleto;70;1,68;24,80;Con menor frecuencia;0,00
+Hombre;21;7;Universitario completo;70;1,68;24,80;Con menor frecuencia;2,00
+Mujer;23;8;Universitario incompleto;62;1,58;24,84;Entre 2 a 3 veces al mes;2,00
+Mujer;21;4;Universitario incompleto;62;1,58;24,84;Entre 1 a 2 veces a la semana;4,00
+Mujer;24;7;Universitario incompleto;66;1,63;24,84;Entre 3 a 5 veces a la semana;8,00
+Hombre;22;7;Universitario completo;77;1,76;24,86;Entre 1 a 2 veces a la semana;15,00
+Hombre;23;6;Universitario incompleto;71;1,69;24,86;Entre 2 a 3 veces al mes;6,00
+Hombre;21;7;Universitario incompleto;71;1,69;24,86;Entre 2 a 3 veces al mes;2,00
+Mujer;22;10;Universitario incompleto;59;1,54;24,88;Entre 2 a 3 veces al mes;1,00
+Mujer;20;1;Secundaria completa;56;1,5;24,89;Con menor frecuencia;15,00
+Mujer;20;7;Secundaria completa;56;1,5;24,89;Entre 2 a 3 veces al mes;10,00
+Hombre;22;7;Técnico incompleto;67;1,64;24,91;Entre 2 a 3 veces al mes;4,00
+Hombre;21;10;Universitario incompleto;72;1,7;24,91;Entre 2 a 3 veces al mes;10,00
+Hombre;22;6;Secundaria completa;90;1,9;24,93;Entre 2 a 3 veces al mes;7,00
+Mujer;24;6;Universitario incompleto;60;1,55;24,97;Entre 2 a 3 veces al mes;5,00
+Mujer;24;6;Universitario completo;60;1,55;24,97;Entre 1 a 2 veces a la semana;40,00
+Mujer;24;5;Universitario completo;60;1,55;24,97;Entre 1 a 2 veces a la semana;10,00
+Mujer;24;6;Universitario completo;60;1,55;24,97;Entre 1 a 2 veces a la semana;20,00
+Mujer;24;3;Técnico completo;60;1,55;24,97;Entre 1 a 2 veces a la semana;9,00
+Mujer;23;5;Universitario incompleto;60;1,55;24,97;Con menor frecuencia;2,00
+Mujer;24;5;Universitario incompleto;60;1,55;24,97;Entre 2 a 3 veces al mes;2,00
+Hombre;24;1;Técnico incompleto;68;1,65;24,98;Entre 2 a 3 veces al mes;5,00
+Hombre;22;4;Técnico incompleto;64;1,6;25,00;Con menor frecuencia;10,00
+Hombre;23;8;Universitario incompleto;75;1,73;25,06;Más de 6 veces a la semana;8,00
+Hombre;23;10;Universitario completo;75;1,73;25,06;Entre 2 a 3 veces al mes;5,00
+Hombre;21;5;Técnico incompleto;65;1,61;25,08;Con menor frecuencia;13,00
+Mujer;23;5;Universitario incompleto;65;1,61;25,08;Entre 3 a 5 veces a la semana;6,00
+Hombre;24;9;Universitario incompleto;77;1,75;25,14;Con menor frecuencia;2,00
+Hombre;24;9;Universitario incompleto;66;1,62;25,15;Entre 1 a 2 veces a la semana;6,00
+Mujer;20;2;Universitario incompleto;62;1,57;25,15;Entre 1 a 2 veces a la semana;6,00
+Hombre;22;7;Técnico incompleto;78;1,76;25,18;Entre 3 a 5 veces a la semana;6,00
+Mujer;21;2;Universitario incompleto;59;1,53;25,20;Entre 3 a 5 veces a la semana;9,00
+Mujer;24;7;Universitario completo;67;1,63;25,22;Entre 1 a 2 veces a la semana;5,00
+Hombre;24;7;Universitario completo;80;1,78;25,25;Entre 1 a 2 veces a la semana;5,00
+Mujer;22;9;Secundaria completa;73;1,7;25,26;Entre 3 a 5 veces a la semana;10,00
+Hombre;23;9;Universitario incompleto;73;1,7;25,26;Entre 1 a 2 veces a la semana;3,00
+Mujer;20;2;Secundaria completa;60;1,54;25,30;Entre 2 a 3 veces al mes;2,00
+Hombre;20;1;Técnico incompleto;74;1,71;25,31;Con menor frecuencia;2,00
+Mujer;20;1;Técnico incompleto;82;1,8;25,31;Entre 3 a 5 veces a la semana;8,00
+Mujer;21;1;Secundaria completa;64;1,59;25,32;Entre 1 a 2 veces a la semana;3,00
+Hombre;20;6;Secundaria completa;75;1,72;25,35;Entre 1 a 2 veces a la semana;4,00
+Mujer;23;10;Secundaria completa;65;1,6;25,39;Con menor frecuencia;3,00
+Mujer;24;7;Universitario incompleto;65;1,6;25,39;Entre 1 a 2 veces a la semana;5,00
+Mujer;22;4;Secundaria completa;65;1,6;25,39;Con menor frecuencia;10,00
+Mujer;21;1;Universitario incompleto;65;1,6;25,39;Con menor frecuencia;3,00
+Mujer;24;8;Universitario completo;65;1,6;25,39;Entre 1 a 2 veces a la semana;3,00
+Mujer;20;2;Secundaria completa;78;1,75;25,47;Con menor frecuencia;2,00
+Hombre;24;7;Universitario completo;80;1,77;25,54;Con menor frecuencia;8,00
+Hombre;24;7;Universitario completo;80;1,77;25,54;Entre 1 a 2 veces a la semana;5,00
+Mujer;24;6;Universitario completo;60;1,53;25,63;Entre 2 a 3 veces al mes;2,00
+Hombre;20;2;Universitario incompleto;75;1,71;25,65;Entre 2 a 3 veces al mes;1,00
+Mujer;23;7;Universitario incompleto;75;1,71;25,65;Entre 1 a 2 veces a la semana;6,00
+Hombre;21;4;Universitario incompleto;70;1,65;25,71;Entre 1 a 2 veces a la semana;5,00
+Mujer;21;10;Técnico completo;70;1,65;25,71;Con menor frecuencia;2,00
+Hombre;24;1;Técnico incompleto;70;1,65;25,71;Entre 2 a 3 veces al mes;10,00
+Hombre;24;4;Universitario completo;77;1,73;25,73;Con menor frecuencia;1,00
+Mujer;23;9;Técnico completo;71;1,66;25,77;Entre 1 a 2 veces a la semana;5,00
+Mujer;24;2;Universitario completo;58;1,5;25,78;Con menor frecuencia;1,00
+Mujer;22;10;Universitario incompleto;66;1,6;25,78;Con menor frecuencia;2,00
+Hombre;22;3;Universitario incompleto;66;1,6;25,78;Entre 3 a 5 veces a la semana;7,00
+Hombre;23;5;Técnico incompleto;68;1,62;25,91;Con menor frecuencia;2,00
+Hombre;21;6;Universitario incompleto;75;1,7;25,95;Con menor frecuencia;1,00
+Hombre;24;9;Universitario completo;75;1,7;25,95;Entre 1 a 2 veces a la semana;5,00
+Hombre;21;2;Universitario incompleto;75;1,7;25,95;Entre 2 a 3 veces al mes;2,00
+Hombre;24;1;Técnico completo;75;1,7;25,95;Entre 2 a 3 veces al mes;3,00
+Mujer;24;4;Técnico completo;70;1,64;26,03;Más de 6 veces a la semana;10,00
+Mujer;22;4;Universitario incompleto;66;1,59;26,11;Con menor frecuencia;1,00
+Hombre;20;6;Universitario incompleto;80;1,75;26,12;Entre 1 a 2 veces a la semana;2,00
+Hombre;20;5;Universitario incompleto;80;1,75;26,12;Entre 2 a 3 veces al mes;1,00
+Hombre;24;7;Universitario completo;80;1,75;26,12;Entre 1 a 2 veces a la semana;3,00
+Mujer;23;1;Universitario incompleto;68;1,61;26,23;Con menor frecuencia;1.5
+Mujer;24;1;Universitario completo;64;1,56;26,30;Con menor frecuencia;5,00
+Hombre;20;7;Secundaria completa;70;1,63;26,35;Entre 3 a 5 veces a la semana;8,00
+Hombre;20;3;Universitario incompleto;78;1,72;26,37;Entre 2 a 3 veces al mes;5,00
+Hombre;23;7;Universitario incompleto;80;1,74;26,42;Entre 1 a 2 veces a la semana;8,00
+Mujer;24;1;Universitario completo;68;1,6;26,56;Con menor frecuencia;8,00
+Hombre;22;7;Universitario incompleto;75;1,68;26,57;Con menor frecuencia;1,00
+Mujer;23;9;Técnico incompleto;60;1,5;26,67;Entre 2 a 3 veces al mes;10,00
+Hombre;23;8;Universitario completo;60;1,5;26,67;Entre 1 a 2 veces a la semana;5,00
+Mujer;23;1;Universitario incompleto;70;1,62;26,67;Entre 1 a 2 veces a la semana;6,00
+Hombre;24;5;Universitario incompleto;80;1,73;26,73;Entre 1 a 2 veces a la semana;2,00
+Hombre;24;6;Técnico incompleto;85;1,78;26,83;Con menor frecuencia;2,00
+Mujer;21;1;Secundaria completa;67;1,58;26,84;Entre 2 a 3 veces al mes;29,00
+Mujer;20;3;Secundaria completa;67;1,58;26,84;Entre 1 a 2 veces a la semana;5,00
+Hombre;24;5;Universitario completo;86;1,79;26,84;Con menor frecuencia;1,00
+Mujer;20;6;Técnico incompleto;68;1,59;26,90;Entre 3 a 5 veces a la semana;6,00
+Mujer;22;6;Universitario incompleto;69;1,6;26,95;Entre 3 a 5 veces a la semana;8,00
+Hombre;24;7;Universitario incompleto;77;1,69;26,96;Entre 3 a 5 veces a la semana;6,00
+Mujer;20;1;Técnico completo;78;1,7;26,99;Entre 3 a 5 veces a la semana;9,00
+Hombre;20;6;Universitario incompleto;78;1,7;26,99;Entre 1 a 2 veces a la semana;5,00
+Hombre;21;2;Universitario incompleto;78;1,7;26,99;Con menor frecuencia;2,00
+Hombre;21;7;Universitario incompleto;79;1,71;27,02;Entre 2 a 3 veces al mes;5,00
+Mujer;24;6;Técnico completo;61;1,50;27,11;Entre 1 a 2 veces a la semana;2,00
+Mujer;20;2;Universitario incompleto;61;1,5;27,11;Entre 1 a 2 veces a la semana;5,00
+Mujer;21;2;Secundaria completa;66;1,56;27,12;Entre 2 a 3 veces al mes;20,00
+Hombre;23;10;Secundaria completa;86;1,78;27,14;Con menor frecuencia;5,00
+Hombre;24;1;Universitario completo;89;1,81;27,17;Entre 1 a 2 veces a la semana;6,00
+Mujer;20;1;Primaria completa;67;1,57;27,18;Más de 6 veces a la semana;15,00
+Mujer;20;2;Técnico incompleto;70;1,6;27,34;Más de 6 veces a la semana;10,00
+Hombre;23;10;Universitario incompleto;72;1,62;27,43;Entre 1 a 2 veces a la semana;7,00
+Hombre;21;7;Universitario incompleto;87;1,78;27,46;Entre 1 a 2 veces a la semana;4,00
+Mujer;20;6;Universitario incompleto;67;1,56;27,53;Entre 3 a 5 veces a la semana;57,00
+Hombre;20;1;Primaria completa;67;1,56;27,53;Entre 3 a 5 veces a la semana;56,00
+Mujer;20;6;Secundaria completa;67;1,56;27,53;Entre 3 a 5 veces a la semana;8,00
+Mujer;21;10;Universitario incompleto;75;1,65;27,55;Entre 1 a 2 veces a la semana;5,00
+Hombre;22;2;Técnico completo;80;1,7;27,68;Entre 3 a 5 veces a la semana;50,00
+Mujer;21;7;Secundaria completa;71;1,6;27,73;Con menor frecuencia;1,00
+Hombre;23;3;Universitario incompleto;85;1,75;27,76;Entre 1 a 2 veces a la semana;10,00
+Hombre;24;7;Universitario completo;85;1,75;27,76;Entre 1 a 2 veces a la semana;3,00
+Mujer;22;1;Universitario incompleto;95;1,85;27,76;Con menor frecuencia;1,00
+Mujer;24;5;Técnico incompleto;60;1,47;27,77;Entre 1 a 2 veces a la semana;2,00
+Hombre;24;6;Universitario incompleto;88;1,78;27,77;Entre 1 a 2 veces a la semana;4,00
+Hombre;22;8;Universitario incompleto;90;1,8;27,78;Entre 2 a 3 veces al mes;5,00
+Hombre;24;7;Universitario incompleto;90;1,8;27,78;Entre 2 a 3 veces al mes;10,00
+Mujer;20;2;Secundaria completa;78;1,67;27,97;Entre 3 a 5 veces a la semana;10,00
+Hombre;23;7;Universitario incompleto;87;1,76;28,09;Entre 1 a 2 veces a la semana;5,00
+Hombre;24;6;Universitario completo;78;1,66;28,31;Entre 2 a 3 veces al mes;2,00
+Hombre;24;9;Universitario incompleto;83;1,71;28,38;Entre 3 a 5 veces a la semana;13,00
+Mujer;24;5;Universitario incompleto;75;1,62;28,58;Entre 1 a 2 veces a la semana;3,00
+Hombre;22;8;Universitario incompleto;83;1,7;28,72;Entre 1 a 2 veces a la semana;5,00
+Hombre;20;9;Secundaria completa;88;1,75;28,73;Entre 3 a 5 veces a la semana;8,00
+Hombre;20;9;Secundaria completa;72;1,58;28,84;Entre 2 a 3 veces al mes;15,00
+Mujer;24;1;Técnico incompleto;65;1,5;28,89;Con menor frecuencia;0,00
+Mujer;20;7;Universitario incompleto;74;1,6;28,91;Entre 1 a 2 veces a la semana;4,00
+Hombre;21;2;Universitario incompleto;92;1,78;29,04;Entre 1 a 2 veces a la semana;18,00
+Hombre;24;7;Universitario incompleto;87;1,73;29,07;Más de 6 veces a la semana;30,00
+Mujer;22;7;Universitario incompleto;75;1,6;29,30;Entre 3 a 5 veces a la semana;9,00
+Mujer;20;7;Universitario incompleto;75;1,6;29,30;Con menor frecuencia;2,00
+Hombre;21;6;Universitario incompleto;95;1,8;29,32;Entre 1 a 2 veces a la semana;5,00
+Hombre;21;2;Universitario incompleto;95;1,8;29,32;Con menor frecuencia;2,00
+Hombre;21;2;Universitario incompleto;80;1,65;29,38;Entre 2 a 3 veces al mes;2,00
+Hombre;23;3;Secundaria completa;80;1,65;29,38;Entre 3 a 5 veces a la semana;7,00
+Hombre;24;4;Universitario completo;80;1,65;29,38;Entre 2 a 3 veces al mes;5,00
+Mujer;24;4;Secundaria completa;80;1,65;29,38;Entre 1 a 2 veces a la semana;6,00
+Hombre;22;2;Universitario incompleto;85;1,7;29,41;Entre 2 a 3 veces al mes;25,00
+Hombre;23;8;Universitario incompleto;85;1,7;29,41;Entre 1 a 2 veces a la semana;3,00
+Mujer;20;2;Secundaria completa;69;1,53;29,48;Con menor frecuencia;4,00
+Hombre;24;7;Universitario completo;90;1,74;29,73;Entre 3 a 5 veces a la semana;10,00
+Hombre;24;7;Universitario incompleto;89;1,73;29,74;Entre 1 a 2 veces a la semana;5,00
+Hombre;24;6;Técnico completo;100;1,83;29,86;Entre 1 a 2 veces a la semana;5,00
+Mujer;20;1;Primaria completa;78;1,6;30,47;Más de 6 veces a la semana;15,00
+Mujer;20;8;Secundaria completa;80;1,61;30,86;Entre 1 a 2 veces a la semana;7,00
+Hombre;24;10;Universitario incompleto;88;1,68;31,18;Entre 3 a 5 veces a la semana;50,00
+Hombre;20;7;Universitario incompleto;80;1,6;31,25;Con menor frecuencia;0,00
+Hombre;21;2;Universitario incompleto;91;1,7;31,49;Entre 3 a 5 veces a la semana;10,00
+Mujer;24;10;Técnico completo;83;1,62;31,63;Entre 2 a 3 veces al mes;2,00
+Hombre;24;7;Universitario incompleto;93;1,7;32,18;Entre 1 a 2 veces a la semana;5,00
+Mujer;24;5;Técnico incompleto;72;1,48;32,87;Entre 3 a 5 veces a la semana;7,00
+Mujer;24;1;Universitario completo;48;1,2;33,33;Entre 1 a 2 veces a la semana;2,00
+Mujer;24;10;Universitario incompleto;95;1,65;34,89;Entre 3 a 5 veces a la semana;2,00
+Hombre;20;2;Técnico completo;120;1,85;35,06;Entre 2 a 3 veces al mes;5,00
+Mujer;23;8;Universitario incompleto;80;1,51;35,09;Con menor frecuencia;0,00
+Hombre;24;5;Secundaria completa;92;1,6;35,94;Entre 1 a 2 veces a la semana;2,00
+Hombre;22;7;Universitario incompleto;115;1,75;37,55;Entre 2 a 3 veces al mes;1,00
+Mujer;22;4;Universitario incompleto;103;1,63;38,77;Entre 3 a 5 veces a la semana;20,00
+Hombre;24;5;Secundaria completa;75;1,30;44,38;Entre 2 a 3 veces al mes;3,00
